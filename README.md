@@ -2,7 +2,8 @@
 
 
 - 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
-- 👀 Atualmente estou aprendendo Java e VueJs.
+- 👀 Atualmente estou aprendendo Java, VueJs e Flutter.
+- 📱💻 Aprendendo a desenvolver sistemas WEB e Mobile.
 - 👯 Procuro colaborar em tudo que posso!
 
 <div align="center">
