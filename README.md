@@ -1,4 +1,5 @@
-### Opa! Eu sou o Lucas Sousa😉
+### Opa! Eu sou o Lucas Sousa😉! <br/>Atualmente atuo na área de desenvolvimente de software, pondo em prática conhecimentos em backend e frontend.
+
 
 
 - 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
