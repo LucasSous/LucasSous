@@ -5,6 +5,7 @@
 - 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
 - 👀 Atualmente estou aprendendo Java, VueJs e Flutter.
 - 📱💻 Desenvolvedor de sistemas WEB e Mobile.
+- 💼 Meu Portifólio: https://lucassous.github.io/portfolio-lucas-sousa/
 
 <div align="center">
   <a href="https://github.com/LucasSous">
