@@ -1,10 +1,10 @@
-### Opa! Eu sou o Lucas Sousa😉! <br/>Atualmente atuo na área de desenvolvimento de software, pondo em prática conhecimentos em backend e frontend.
+### Opa! Eu sou o Lucas Sousa😉! <br/>Atualmente atuo na área de desenvolvimento web, pondo em prática conhecimentos em frontend.
 
 
 
 - 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
-- 👀 Atualmente estou aprendendo Java, VueJs e Flutter.
-- 📱💻 Desenvolvedor de sistemas WEB e Mobile.
+- 👀 Atualmente estou estudando React js.
+- 📱💻 Desenvolvedor Front End - React js, Vue js.
 <!-- - 💼 Meu Portifólio: https://lucassous.github.io/portfolio-lucas-sousa/ -->
 
 <div align="center">
