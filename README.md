@@ -3,9 +3,9 @@
 
 
 - 🏃‍ Sempre em busca de um amanhã onde eu seja melhor que hoje!
-- 👀 Atualmente estou estudando React js.
-- 📱💻 Desenvolvedor Front End - React js, Vue js.
-<!-- - 💼 Meu Portifólio: https://lucassous.github.io/portfolio-lucas-sousa/ -->
+- 👀 Atualmente estou estudando React js e Flutter.
+- 📱💻 Desenvolvedor Front End e Mobile | React js | Vue js | Flutter.
+- 💼 Meu Portifólio: https://lucassous.github.io/portfolio-lucas-sousa/
 
 <div align="center">
   <a href="https://github.com/LucasSous">
