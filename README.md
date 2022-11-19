@@ -36,8 +36,3 @@
 </div> 
 <br/>
 
-<p align="center"> 
-  Contador de visitas<br>
-  <img src="https://profile-counter.glitch.me/LucasSous/count.svg" />
-</p>
-
