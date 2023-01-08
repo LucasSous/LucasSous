@@ -1,4 +1,4 @@
-### Opa! Eu sou o Lucas Sousa😉! <br/>Atualmente atuo na área de desenvolvimento web e mobile, pondo em prática conhecimentos de frontend.
+### Opa! Eu sou o Lucas Sousa😉! <br/>Um desenvolvedor Front-End e Mobile.
 
 
 
@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/LucasSous">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSous&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSous&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LucasSous&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSous&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div align="center" style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -36,5 +36,9 @@
 </div> 
 <br/>
 
-![snake gif](https://github.com/LucasSous/LucasSous/blob/output/github-contribution-grid-snake.svg)
+<div align="center"> 
+  
+ ![snake gif](https://github.com/LucasSous/LucasSous/blob/output/github-contribution-grid-snake.svg)
+  
+</div> 
 
